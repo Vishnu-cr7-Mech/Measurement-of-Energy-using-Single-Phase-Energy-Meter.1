@@ -1,4 +1,5 @@
-
+### Name:VISHNUPRIYAN V
+### Reg no:212223080058
 # Aim:
 To measure energy using Single Phase Energy Meter
 
@@ -49,10 +50,16 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 
 ## Output Waveform
 
+<img width="1294" height="691" alt="Screenshot 2025-09-23 153532" src="https://github.com/user-attachments/assets/7040f3d9-db80-4aef-bee8-9452772d443e" />
 
-<img width="1085" height="609" alt="ENERGY METER" src="https://github.com/user-attachments/assets/69d15615-9e6e-4507-889f-615b050e8514" />
 
 
 ## Result
+Thus the energy has been measured using single phase energy meter.
 
-Thus the energy has been measured using Single Phase Energy Meter.
+
+
+
+
+
+
